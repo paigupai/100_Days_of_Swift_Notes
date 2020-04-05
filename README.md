@@ -9,6 +9,6 @@ Day 7 – closures part two
 day16 ~ day18  
 ![gif](https://github.com/paigupai/100_Days_of_Swift_Notes/blob/master/gif/Project1.gif)  
 day19 ~ day21  
-![gif](https://github.com/paigupai/100_Days_of_Swift_Notes/blob/master/gif/Project2.gif)  
+![gif](https://github.com/paigupai/100_Days_of_Swift_Notes/blob/master/gif/project2.gif)  
 day22  
-![gif](https://github.com/paigupai/100_Days_of_Swift_Notes/blob/master/gif/Project3.gif)  
+![gif](https://github.com/paigupai/100_Days_of_Swift_Notes/blob/master/gif/project3.gif)  
