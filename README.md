@@ -14,5 +14,5 @@ day22
 ![gif](https://github.com/paigupai/100_Days_of_Swift_Notes/blob/master/gif/project3.gif)  
 day24 ~ day26  
 ![gif](https://github.com/paigupai/100_Days_of_Swift_Notes/blob/master/gif/project4.gif)  
-day27 ~ day29 
+day27 ~ day29  
 ![gif](https://github.com/paigupai/100_Days_of_Swift_Notes/blob/master/gif/project5.gif)  
