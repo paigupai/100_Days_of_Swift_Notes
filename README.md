@@ -17,3 +17,6 @@ day24 ~ day26
 day27 ~ day29  
 ![gif](https://github.com/paigupai/100_Days_of_Swift_Notes/blob/master/gif/project5.gif)  
 day30 ~ day31  
+AutoLayout-VFLとNSLayoutAnchor  
+![avatar](https://github.com/paigupai/100_Days_of_Swift_Notes/raw/master/gif/project6.png)  
+day33 ~ day35  
