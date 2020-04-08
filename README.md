@@ -20,6 +20,6 @@ day30 ~ day31
 AutoLayout-VFLとNSLayoutAnchor  
 ![image](https://github.com/paigupai/100_Days_of_Swift_Notes/raw/master/gif/project6.png)  
 day33 ~ day35  
-Codable protocol / loadHTMLString
+Codable protocol / loadHTMLString   
 ios13では SceneDelegateが追加される、didFinishLaunchingWithOptionsの処理はfunc scene(_ scene: UIScene, willConnectTo session: UISceneSession, options connectionOptions: UIScene.ConnectionOptions)で  
 ![gif](https://github.com/paigupai/100_Days_of_Swift_Notes/blob/master/gif/project7.gif)  
