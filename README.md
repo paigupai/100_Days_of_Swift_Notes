@@ -23,3 +23,5 @@ day33 ~ day35
 Codable protocol / loadHTMLString   
 ios13では SceneDelegateが追加された、didFinishLaunchingWithOptionsの処理はfunc scene(_ scene: UIScene, willConnectTo session: UISceneSession, options connectionOptions: UIScene.ConnectionOptions)でできる  
 ![gif](https://github.com/paigupai/100_Days_of_Swift_Notes/blob/master/gif/project7.gif)  
+day36 ~ day38  
+![gif](https://github.com/paigupai/100_Days_of_Swift_Notes/blob/master/gif/project8.gif)  
