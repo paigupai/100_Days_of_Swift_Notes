@@ -25,3 +25,6 @@ ios13では SceneDelegateが追加された、didFinishLaunchingWithOptionsの�
 ![gif](https://github.com/paigupai/100_Days_of_Swift_Notes/blob/master/gif/project7.gif)  
 day36 ~ day38  
 ![gif](https://github.com/paigupai/100_Days_of_Swift_Notes/blob/master/gif/project8.gif)  
+day39 ~ day40  
+![gif](https://github.com/paigupai/100_Days_of_Swift_Notes/blob/master/gif/project9.gif)  
+day42 ~ day44  
