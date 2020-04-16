@@ -32,3 +32,9 @@ day42 ~ day44
 UICollectionViewController UIImagePicker   
 ![gif](https://github.com/paigupai/100_Days_of_Swift_Notes/blob/master/gif/project10.gif)  
 day45 ~ day47  
+SKSpriteNode SKPhysicsBody SKAction SKEmitterNode
+![gif](https://github.com/paigupai/100_Days_of_Swift_Notes/blob/master/gif/project11.gif)  
+day48 ~ day49  
+day52 ~ day54  
+day55 ~ day56  
+day57 ~ day58  
