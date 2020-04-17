@@ -33,7 +33,8 @@ UICollectionViewController
 UIImagePicker iphone内保存している写真を取得   
 ![gif](https://github.com/paigupai/100_Days_of_Swift_Notes/blob/master/gif/project10.gif)  
 day45 ~ day47  
-SKSpriteNode SKPhysicsBody SKAction SKEmitterNode  
+SKSpriteNode SKPhysicsBody(物理効果) SKAction SKEmitterNode  
+SpriteKitで2dゲームを開発  
 ![gif](https://github.com/paigupai/100_Days_of_Swift_Notes/blob/master/gif/project11.gif)  
 day48 ~ day49  
 二つの方法でclassをData型に変換、そしてUserDefaults内に保存させる
