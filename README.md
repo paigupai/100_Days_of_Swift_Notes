@@ -35,6 +35,9 @@ day45 ~ day47
 SKSpriteNode SKPhysicsBody SKAction SKEmitterNode  
 ![gif](https://github.com/paigupai/100_Days_of_Swift_Notes/blob/master/gif/project11.gif)  
 day48 ~ day49  
+二つの方法でclassをData型に変換、そしてUserDefaults内に保存させる
+- NSCoding classをNSCoding継承させる、Data型にエンコードできる
+- Codable classをjsonにエンコードして、そをUserDefaults内に保存
 day52 ~ day54  
 day55 ~ day56  
 day57 ~ day58  
