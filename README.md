@@ -29,7 +29,8 @@ day39 ~ day40
 GCDを使って、responseを待ってず、先に画面が表示される  
 ![gif](https://github.com/paigupai/100_Days_of_Swift_Notes/blob/master/gif/project9.gif)  
 day42 ~ day44  
-UICollectionViewController UIImagePicker   
+UICollectionViewController  
+UIImagePicker iphone内保存している写真を取得   
 ![gif](https://github.com/paigupai/100_Days_of_Swift_Notes/blob/master/gif/project10.gif)  
 day45 ~ day47  
 SKSpriteNode SKPhysicsBody SKAction SKEmitterNode  
