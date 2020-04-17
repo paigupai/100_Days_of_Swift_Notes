@@ -37,7 +37,8 @@ SKSpriteNode SKPhysicsBody SKAction SKEmitterNode
 day48 ~ day49  
 二つの方法でclassをData型に変換、そしてUserDefaults内に保存させる
 - NSCoding classをNSCoding継承させる、Data型にエンコードできる
-- Codable classをjsonにエンコードして、そをUserDefaults内に保存
+- Codable classをjsonにエンコードして、そをUserDefaults内に保存  
+
 day52 ~ day54  
 day55 ~ day56  
 day57 ~ day58  
