@@ -40,6 +40,7 @@ day48 ~ day49
 二つの方法でclassをData型に変換、そしてUserDefaults内に保存させる
 - NSCoding classをNSCoding継承させる、Data型にエンコードできる
 - Codable classをjsonにエンコードして、そをUserDefaults内に保存  
+
 ![gif](https://github.com/paigupai/100_Days_of_Swift_Notes/blob/master/gif/project12.gif)  
 day52 ~ day54  
 day55 ~ day56  
