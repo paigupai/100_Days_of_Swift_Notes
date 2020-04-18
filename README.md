@@ -43,5 +43,10 @@ day48 ~ day49
 
 ![gif](https://github.com/paigupai/100_Days_of_Swift_Notes/blob/master/gif/project12.gif)  
 day52 ~ day54  
+core Image の使い方、画像にフィルターをかける  
+UISlider  
+Writing images to the iOS photo album  
+他のフィルター：core image filter reference  
+![gif](https://github.com/paigupai/100_Days_of_Swift_Notes/blob/master/gif/project13.gif)  
 day55 ~ day56  
 day57 ~ day58  
