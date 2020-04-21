@@ -1,22 +1,30 @@
+//
+//  ViewController.swift
+//  Project15
+//
+//  Created by paigu on 2020/04/21.
+//  Copyright © 2020 paigu. All rights reserved.
+//
+
 import UIKit
 
 class ViewController: UIViewController {
-
+    
     var imageView:UIImageView!
     var currentAnimation = 0
-
-
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        
         imageView = UIImageView(image: UIImage(named: "penguin"))
         imageView.center = self.view.center
         view.addSubview(imageView)
     }
-
+    
     @IBAction func tapped(_ sender: UIButton) {
         sender.isHidden = true
-
+        
         UIView.animate(withDuration: 1, delay: 0, usingSpringWithDamping: 0.5, initialSpringVelocity: 5, options: [], animations: {
             switch self.currentAnimation {
             case 0:
@@ -43,11 +51,11 @@ class ViewController: UIViewController {
         }) { finished in
             sender.isHidden = false
         }
-
+        
         currentAnimation += 1
         if currentAnimation > 7 {
             currentAnimation = 0
         }
     }
-
+    
 }

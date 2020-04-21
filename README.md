@@ -54,6 +54,8 @@ SKCropNode SKTexture asyncAfter() New SKAction types
 ![gif](https://github.com/paigupai/100_Days_of_Swift_Notes/blob/master/gif/project14.gif)  
 day57 ~ day58  
 animate  アニメーション  
+
+![gif](https://github.com/paigupai/100_Days_of_Swift_Notes/blob/master/gif/project15.gif)  
 day60 ~ day61  
 day62 ~ day63  
 day64 ~ day65  
