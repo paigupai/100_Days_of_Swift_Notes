@@ -1,3 +1,10 @@
+//
+//  Capital.swift
+//  Project16
+//
+//  Created by paigu on 2020/04/22.
+//  Copyright © 2020 paigu. All rights reserved.
+//
 
 import MapKit
 import UIKit
