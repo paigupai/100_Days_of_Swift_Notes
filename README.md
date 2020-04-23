@@ -63,6 +63,10 @@ MKPinAnnotationView
 CLLocationCoordinate2D  
 ![gif](https://github.com/paigupai/100_Days_of_Swift_Notes/blob/master/gif/project16.gif)  
 day62 ~ day63  
+per-pixel collision detection  
+advancing particle systems  
+Timer  
+Linear and angular damping  
 day64 ~ day65  
 day67 ~ day69  
 day70 ~ day71  
