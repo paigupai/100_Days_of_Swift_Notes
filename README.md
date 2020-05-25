@@ -94,6 +94,7 @@ day67 ~ day69
 [Project19](https://github.com/paigupai/100_Days_of_Swift_Notes/tree/master/Project19)  
 shell app　Safariと通信するapp  
 NotificationCenter  观察者  
+[NotificationCenterの使い方](https://qiita.com/ryo-ta/items/2b142361996657463e5f)  
 UITextView  
 Fixing the keyboard 入力時自動にキーボードの位置を修正  
 ![gif](https://github.com/paigupai/100_Days_of_Swift_Notes/blob/master/gif/project19_1.gif)  
