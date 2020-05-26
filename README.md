@@ -100,4 +100,13 @@ Fixing the keyboard 入力時自動にキーボードの位置を修正
 ![gif](https://github.com/paigupai/100_Days_of_Swift_Notes/blob/master/gif/project19_1.gif)  
 ![gif](https://github.com/paigupai/100_Days_of_Swift_Notes/blob/master/gif/project19_2.gif)  
 day70 ~ day71  
+[Project20](https://github.com/paigupai/100_Days_of_Swift_Notes/tree/master/Project20)  
+follow()  SKAction.follow  
+UIBezierPath  軌跡  
+for case let  for中にcase let使う  
+ color blending  配色  
+![gif](https://github.com/paigupai/100_Days_of_Swift_Notes/blob/master/gif/project20.gif)  
 day72 ~ day73  
+day75 ~ day76  
+day77 ~ day79  
+day80 ~ day81  
