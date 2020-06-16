@@ -1,4 +1,5 @@
 # 100_Days_of_Swift_Notes
+![]( https://visitor-badge.glitch.me/badge?page_id=<f29bd622-4476-4796-b4db-75f7209588ae>)
 [100_Days_of_Swift](https://www.hackingwithswift.com/100)  
 ### 進捗
 100 Days of Swift(16/100)  
