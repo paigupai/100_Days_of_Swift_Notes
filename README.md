@@ -112,5 +112,9 @@ day72 ~ day73
 UNUserNotificationCenter  通知  本地推送  
 ![gif](https://github.com/paigupai/100_Days_of_Swift_Notes/blob/master/gif/project21.gif)  
 day75 ~ day76  
+[Project22](https://github.com/paigupai/100_Days_of_Swift_Notes/tree/master/Project22)  
+Core Location デバイスの地理的位置と向き
+CLBeaconRegion iBeaconデバイスの存在を検出するために使用される  
+iBeaconデバイスの距離を感知するapp、実機ないのでgif画像作れない  
 day77 ~ day79  
 day80 ~ day81  
